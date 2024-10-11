@@ -2,8 +2,7 @@ body {
     font-family: 'Arial', sans-serif;
     color: #333;
     transition: background-color 0.3s ease;
-    background: rgb(0,207,255);
-    background: linear-gradient(21deg, rgba(0,207,255,0.05) 0%, rgba(0,112,255,0.05) 100%); 
+    background: rgb((242,252,255);
 }
 
 body.dark-theme {
